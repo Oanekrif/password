@@ -1,3 +1,4 @@
+# this is a simple calculator project made with python language
 from tkinter import *
 win = Tk()
 win.title('calculator')
