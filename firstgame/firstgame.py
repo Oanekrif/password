@@ -1,3 +1,4 @@
+# this is a simple game -care game- project made with python language
 import pygame
 import random
 
