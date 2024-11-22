@@ -18,7 +18,7 @@ This project is a simple car game developed with Python and Pygame. The player c
 ## 🚀 How to Run:
 1. Clone the repository:
     ```bash
-   clone https://github.com/oanekrif/Py-Game.git
+   clone https://github.com/Oanekrif/Py-Game.git
 
 2. Navigate to the project directory:
     ```bash
