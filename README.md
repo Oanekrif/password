@@ -31,7 +31,6 @@ This project is a simple car game developed with Python and Pygame. The player c
 4. Run the game script:
     ```bash
     python Py-Game.py
-</br>
 
 ## 🎮 How to Play:
 • Move Left: Press the Left Arrow key.</br>
