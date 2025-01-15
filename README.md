@@ -47,7 +47,7 @@ Here is the code used in the script:</br>
        password = password + random_char
     print("password dyalek howa: "+password)
 
-![img overview](https://github.com/Oanekrif/password/blob/master/image.png)
+<img src="https://github.com/Oanekrif/password/blob/master/image.png" width="800">
 ## 📌 Notes:
 •Make sure you enter a valid integer for the password length.</br>
 •The generated password is a combination of characters to ensure randomness.</br>
